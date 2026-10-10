@@ -1,6 +1,7 @@
 # A Cheat Sheet with Most Docker Commands
 
 https://docs.docker.com/get-started/docker_cheatsheet.pdf
+miyav miyav 
 
 # Dockerize the prediction-ui component - create a Docker image, create a container, run it and check its logs
 
